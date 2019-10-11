@@ -1,6 +1,6 @@
 
 // Simple C++ Programme
-
+// Author: Imran Malik Awan
 
 #include<iostream>
 using namespace std;
