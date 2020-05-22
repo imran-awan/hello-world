@@ -7,6 +7,6 @@
 using namespace std;
 int main()
 {
-cout << output <<endl;
+cout << "second version" <<endl;
 return 0;
 }
